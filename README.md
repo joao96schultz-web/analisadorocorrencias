@@ -1,0 +1,1 @@
+Script desenvolvido para ler e resumir em forma de ranking e tabelas dados contidos em arquivo Excel através da biblioteca pandas em python. Com a biblioteca reportblab cria um PDF e com o protocolo smpt envia o anexo automático pelo Gmail.
